@@ -1,3 +1,9 @@
+## intent:current_matches
+- what is the current cricket score ?
+- i want cricket updates
+- cricket updates
+- cricket score
+
 ## intent:greet
 - hey
 - hello
